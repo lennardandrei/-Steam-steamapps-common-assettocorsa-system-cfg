@@ -24,6 +24,7 @@ Configuración G27:
 
 Configuración ClubSport V 2.5:
 
+![Screenshot_3](https://user-images.githubusercontent.com/34553420/111157237-f364f300-8596-11eb-978b-6a7ba401c078.jpg)
 ![CS25ffb](https://user-images.githubusercontent.com/34553420/111156896-8a7d7b00-8596-11eb-890b-d38d2fc4bb88.png)
 
 
