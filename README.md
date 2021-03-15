@@ -1,6 +1,7 @@
 # -Steam-steamapps-common-assettocorsa-system-cfg
 Configuración de \Steam\steamapps\common\assettocorsa\system\cfg para que se vea bien con https://www.racedepartment.com/downloads/ac-disable-shadows-patcher-fixed-with-new-update-ac-1-16-4-v2.36629/
 
+Esta configuración permite disfrutar al máximo de Asseto Corsa en VR (Oculus) con el mayor rendimiento, y no hubiera sido posible sin el duro trabajo de investigación, prueba y error del piloto juanpuscas !!!
 
 Configuración Assetto Corsa:
 
