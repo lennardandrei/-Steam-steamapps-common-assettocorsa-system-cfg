@@ -2,14 +2,27 @@
 Configuración de \Steam\steamapps\common\assettocorsa\system\cfg para que se vea bien con https://www.racedepartment.com/downloads/ac-disable-shadows-patcher-fixed-with-new-update-ac-1-16-4-v2.36629/
 
 
-Configuración:
-![1](https://user-images.githubusercontent.com/34553420/111156317-e562a280-8595-11eb-8011-dca31a8c22f6.png)
-![2](https://user-images.githubusercontent.com/34553420/111156322-e693cf80-8595-11eb-819a-afeb8ba048bb.png)
-![3](https://user-images.githubusercontent.com/34553420/111156324-e693cf80-8595-11eb-8ad4-229311b2e881.png)
-![4](https://user-images.githubusercontent.com/34553420/111156325-e72c6600-8595-11eb-9ab1-015d1365105f.png)
-![CS25ffb](https://user-images.githubusercontent.com/34553420/111156327-e72c6600-8595-11eb-9824-3bea10f970a7.png)
-![g27ffb](https://user-images.githubusercontent.com/34553420/111156330-e72c6600-8595-11eb-81ef-2b132eb1fd14.png)
-![logit](https://user-images.githubusercontent.com/34553420/111156331-e7c4fc80-8595-11eb-8b46-60524d5bc82b.png)
-![n1](https://user-images.githubusercontent.com/34553420/111156332-e7c4fc80-8595-11eb-84a0-a7e252300c56.png)
-![n2](https://user-images.githubusercontent.com/34553420/111156335-e85d9300-8595-11eb-88bb-5ba3820542e1.png)
-![n3](https://user-images.githubusercontent.com/34553420/111156337-e85d9300-8595-11eb-907a-65c03a560701.png)
+Configuración Assetto Corsa:
+![1](https://user-images.githubusercontent.com/34553420/111156731-5efa9080-8596-11eb-9b13-ecf8b17ff350.jpg)
+![2](https://user-images.githubusercontent.com/34553420/111156732-5f932700-8596-11eb-98f7-7759009d1eec.jpg)
+![3](https://user-images.githubusercontent.com/34553420/111156733-5f932700-8596-11eb-835f-72e0efc8d0fb.jpg)
+![4](https://user-images.githubusercontent.com/34553420/111156735-602bbd80-8596-11eb-8e27-32e2e8f1af37.jpg)
+
+Configuración NVIDIA:
+![logit](https://user-images.githubusercontent.com/34553420/111156797-720d6080-8596-11eb-9d3b-5bf8da251736.png)
+![n1](https://user-images.githubusercontent.com/34553420/111156799-72a5f700-8596-11eb-98b7-39a15c61debb.png)
+![n2](https://user-images.githubusercontent.com/34553420/111156804-72a5f700-8596-11eb-91d1-3a8edcfcaba3.png)
+![n3](https://user-images.githubusercontent.com/34553420/111156805-733e8d80-8596-11eb-81d6-374cacd628f1.png
+
+Configuración G27:
+![g27ffb](https://user-images.githubusercontent.com/34553420/111156924-8f422f00-8596-11eb-8bcc-6308b8ca951b.png)
+
+
+Configuración ClubSport V 2.5:
+![CS25ffb](https://user-images.githubusercontent.com/34553420/111156896-8a7d7b00-8596-11eb-890b-d38d2fc4bb88.png)
+
+
+
+
+
+
