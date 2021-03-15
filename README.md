@@ -9,12 +9,13 @@ Configuración Assetto Corsa:
 ![4](https://user-images.githubusercontent.com/34553420/111156735-602bbd80-8596-11eb-8e27-32e2e8f1af37.jpg)
 
 Configuración NVIDIA:
-![logit](https://user-images.githubusercontent.com/34553420/111156797-720d6080-8596-11eb-9d3b-5bf8da251736.png)
-![n1](https://user-images.githubusercontent.com/34553420/111156799-72a5f700-8596-11eb-98b7-39a15c61debb.png)
-![n2](https://user-images.githubusercontent.com/34553420/111156804-72a5f700-8596-11eb-91d1-3a8edcfcaba3.png)
-![n3](https://user-images.githubusercontent.com/34553420/111156805-733e8d80-8596-11eb-81d6-374cacd628f1.png
+![n1](https://user-images.githubusercontent.com/34553420/111157026-aed95780-8596-11eb-9bbc-010c1c16c231.png)
+![n2](https://user-images.githubusercontent.com/34553420/111157029-aed95780-8596-11eb-929e-e2bceec5f8f6.png)
+![n3](https://user-images.githubusercontent.com/34553420/111157030-af71ee00-8596-11eb-9973-95b34e75542c.png)
+
 
 Configuración G27:
+![logit](https://user-images.githubusercontent.com/34553420/111157041-b26cde80-8596-11eb-91c0-b94a43a8249c.png)
 ![g27ffb](https://user-images.githubusercontent.com/34553420/111156924-8f422f00-8596-11eb-8bcc-6308b8ca951b.png)
 
 
